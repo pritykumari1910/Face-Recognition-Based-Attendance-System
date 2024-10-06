@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/fa157941-4d53-49c8-a11d-52fc550d63c6)
 
+![Screenshot (192)](https://github.com/user-attachments/assets/f197c113-2346-485c-b8d2-9bbe4aa440d1)
 
 
 Firstly the image is imported by providing the location of the image. Then the picture is transformed from RGB to Grayscale because it is easy to detect faces in the grayscale. After that, the image manipulation used, in which the resizing, cropping, blurring and sharpening of the images done if needed. The next step is image segmentation, which is used for contour detection or segments the multiple objects in a single image so that the classifier can quickly detect the objects and faces in the picture
